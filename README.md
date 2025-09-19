@@ -14,6 +14,17 @@
 **Backend:** FastAPI · gRPC · SQLAlchemy · pydantic  
 **Data/Infra:** PostgreSQL · Kafka · Docker · GitHub Actions
 
+<h3>Tech Stack</h3>
+
+<b>ML/DL:</b><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,jupyter&theme=dark" height="32" />
+
+<br><br><b>Backend:</b><br>
+<img src="https://skillicons.dev/icons?i=fastapi,grpc&theme=dark" height="32" />
+
+<br><br><b>Data/Infra:</b><br>
+<img src="https://skillicons.dev/icons?i=postgres,kafka,docker,githubactions&theme=dark" height="32" />
+
 ### Selected Projects
 - **Foodmood (nutrition → mood)** — personal food recommendations. *Stack:* Python, pandas, FastAPI. [repo]()
 - **RAG API for marketplace** — retrieval + answer synthesis, Dockerized. *Stack:* PyTorch/Transformers, FastAPI. [repo]()
