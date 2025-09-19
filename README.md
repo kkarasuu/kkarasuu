@@ -5,7 +5,7 @@
 🧑‍🤝‍🧑 **I’m looking to collaborate on**: applied ML/DL across NLP, CV, and time series — from data & training to APIs, efficient serving, and evaluation.
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kkarasuu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkarasu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kkarasuu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkarasuu/)
 [![Email](https://img.shields.io/badge/Email-egor%20kukushkin-EA4335?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ### Tech Stack
