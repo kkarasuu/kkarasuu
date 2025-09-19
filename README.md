@@ -5,12 +5,9 @@
 🧑‍🤝‍🧑 **I’m looking to collaborate on**: applied ML/DL across NLP, CV, and time series — from data & training to APIs, efficient serving, and evaluation.
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kkarasuu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkarasuu/)
-[![Email](https://img.shields.io/badge/Email-egor%20kukushkin-EA4335?logo=gmail&logoColor=white)](mailto:karasu.studying@mail.ru)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kkarasuu?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/kkarasuu/)
-[![Email](https://img.shields.io/badge/Email-egor_kukushkin?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:YOUR_EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/YOUR_TELEGRAM)
+[![Email](https://img.shields.io/badge/Email-egor_kukushkin?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:karasu.studying@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/kkarrasu)
 
 ### Tech Stack
 **ML/DL:** PyTorch · scikit-learn · Transformers · pandas · numpy · Jupyter  
