@@ -14,45 +14,33 @@
 **Backend:** FastAPI · gRPC · SQLAlchemy · pydantic  
 **Data/Infra:** PostgreSQL · Kafka · Docker · GitHub Actions
 
-<h3>Tech Stack</h3>
+<h3>Tech Stack:</h3>
 
-<b>ML/DL:</b><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,jupyter&theme=dark" height="32" />
-
-<br><br><b>Backend:</b><br>
-<img src="https://skillicons.dev/icons?i=fastapi,grpc&theme=dark" height="32" />
-
-<br><br><b>Data/Infra:</b><br>
-<img src="https://skillicons.dev/icons?i=postgres,kafka,docker,githubactions&theme=dark" height="32" />
-
-popa
-
-<h3>Tech Stack</h3>
-
-<p><b>ML/DL:</b></p>
 <p>
-  <img alt="Python"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />&nbsp;
-  <img alt="PyTorch"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" />&nbsp;
-  <img alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" />&nbsp;
-  <img alt="pandas"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" />&nbsp;
-  <img alt="NumPy"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" />&nbsp;
-  <img alt="Jupyter"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="28" />
+  <!-- ML/DL -->
+  <img src="https://img.shields.io/badge/Python-?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Transformers-?style=for-the-badge&logo=huggingface&logoColor=000&color=FFB000" alt="Transformers/HuggingFace"/>
+  <img src="https://img.shields.io/badge/pandas-?style=for-the-badge&logo=pandas&logoColor=white&color=150458" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-?style=for-the-badge&logo=numpy&logoColor=white&color=013243" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" alt="Jupyter"/>
 </p>
 
-<p><b>Backend:</b></p>
 <p>
-  <img alt="FastAPI"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" />&nbsp;
-  <img alt="gRPC"         src="https://cdn.simpleicons.org/grpc/009DFF" height="28" />&nbsp;
-  <img alt="SQLAlchemy"   src="https://cdn.simpleicons.org/sqlalchemy/777BB4" height="28" />&nbsp;
-  <img alt="pydantic"     src="https://cdn.simpleicons.org/pydantic/0E6EFB" height="28" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-?style=for-the-badge&logo=fastapi&logoColor=white&color=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/gRPC-?style=for-the-badge&logo=grpc&logoColor=white&color=28B446" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=D71F00" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/pydantic-?style=for-the-badge&logo=pydantic&logoColor=white&color=0E6EFB" alt="pydantic"/>
 </p>
 
-<p><b>Data/Infra:</b></p>
 <p>
-  <img alt="PostgreSQL"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" />&nbsp;
-  <img alt="Kafka"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="28" />&nbsp;
-  <img alt="Docker"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" />&nbsp;
-  <img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="28" />
+  <!-- Data/Infra -->
+  <img src="https://img.shields.io/badge/PostgreSQL-?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Kafka-?style=for-the-badge&logo=apachekafka&logoColor=white&color=231F20" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Docker-?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF" alt="GitHub Actions"/>
 </p>
 
 ### Selected Projects
