@@ -25,6 +25,36 @@
 <br><br><b>Data/Infra:</b><br>
 <img src="https://skillicons.dev/icons?i=postgres,kafka,docker,githubactions&theme=dark" height="32" />
 
+popa
+
+<h3>Tech Stack</h3>
+
+<p><b>ML/DL:</b></p>
+<p>
+  <img alt="Python"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />&nbsp;
+  <img alt="PyTorch"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" />&nbsp;
+  <img alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" />&nbsp;
+  <img alt="pandas"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" />&nbsp;
+  <img alt="NumPy"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" />&nbsp;
+  <img alt="Jupyter"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="28" />
+</p>
+
+<p><b>Backend:</b></p>
+<p>
+  <img alt="FastAPI"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" />&nbsp;
+  <img alt="gRPC"         src="https://cdn.simpleicons.org/grpc/009DFF" height="28" />&nbsp;
+  <img alt="SQLAlchemy"   src="https://cdn.simpleicons.org/sqlalchemy/777BB4" height="28" />&nbsp;
+  <img alt="pydantic"     src="https://cdn.simpleicons.org/pydantic/0E6EFB" height="28" />
+</p>
+
+<p><b>Data/Infra:</b></p>
+<p>
+  <img alt="PostgreSQL"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" />&nbsp;
+  <img alt="Kafka"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="28" />&nbsp;
+  <img alt="Docker"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" />&nbsp;
+  <img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="28" />
+</p>
+
 ### Selected Projects
 - **Foodmood (nutrition → mood)** — personal food recommendations. *Stack:* Python, pandas, FastAPI. [repo]()
 - **RAG API for marketplace** — retrieval + answer synthesis, Dockerized. *Stack:* PyTorch/Transformers, FastAPI. [repo]()
