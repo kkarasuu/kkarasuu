@@ -8,6 +8,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kkarasuu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkarasuu/)
 [![Email](https://img.shields.io/badge/Email-egor%20kukushkin-EA4335?logo=gmail&logoColor=white)](mailto:karasu.studying@mail.ru)
 
+<p>
+  <a href="https://www.linkedin.com/in/kkarasuu/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24">
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" height="24">
+  </a>
+  &nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/26A5E4" height="24">
+  </a>
+</p>
+
 ### Tech Stack
 **ML/DL:** PyTorch · scikit-learn · Transformers · pandas · numpy · Jupyter  
 **Backend:** FastAPI · gRPC · SQLAlchemy · pydantic  
