@@ -6,7 +6,7 @@
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kkarasuu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkarasuu/)
-[![Email](https://img.shields.io/badge/Email-egor%20kukushkin-EA4335?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-egor%20kukushkin-EA4335?logo=gmail&logoColor=white)](mailto:karasu.studying@mail.ru)
 
 ### Tech Stack
 **ML/DL:** PyTorch · scikit-learn · Transformers · pandas · numpy · Jupyter  
